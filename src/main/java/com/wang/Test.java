@@ -11,6 +11,6 @@ public class Test {
     }
 
     public void teast(){
-        System.out.println();
+        System.out.println("11111111111111111");
     }
 }
